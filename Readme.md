@@ -1,6 +1,6 @@
 # Data 586 Project
 
-## Next Meeting tasks (April 18):
+## Next Meeting tasks (April 15):
 - Perform individual data wrangling to isolate the log events and discuss findings at the next meeting. 
 
 ## Project to do:
