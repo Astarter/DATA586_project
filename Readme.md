@@ -1,7 +1,9 @@
 # Data 586 Project
 
-## Next Meeting tasks (April 15):
-- Perform individual data wrangling to isolate the log events and discuss findings at the next meeting. 
+## Next Meeting tasks (April 17 at 11:00 am Kelowna time):
+- Perform individual data wrangling to isolate the log events and discuss findings at the next meeting.
+- Connor: Focus on data wrangling and isolating the event types and input for onehot encoding
+- Ben: Learn about onehot encoding and determine how we should use it in this project.  
 
 ## Project to do:
 
