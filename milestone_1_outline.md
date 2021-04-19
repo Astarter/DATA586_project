@@ -12,4 +12,8 @@
 - Convert non-numerical variables to numeric with onehot encoding. 
 
 ### Discuss model development plans:
-- Ben fill in this part?
+- Group the events by their blockId, and then label the blocks with either anormally(0) or normal(1).
+- Then split the blocks into 2 sets: traning set(80%), testing set(20%)  
+- Fit the training set into a logit regression model.(We learnt in the previous class)
+- Use LOOCV or K-fold cross validation to cross validate the fitted model.
+- Test the model with training set, see how good our model is in determining whether a block is valid or not.
