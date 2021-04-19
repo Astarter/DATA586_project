@@ -1,9 +1,15 @@
 # Data 586 Project
 
-## Next Meeting tasks (April 17 at 11:00 am Kelowna time):
-- Perform individual data wrangling to isolate the log events and discuss findings at the next meeting.
-- Connor: Focus on data wrangling and isolating the event types and input for onehot encoding
-- Ben: Learn about onehot encoding and determine how we should use it in this project.  
+## Next Meeting tasks (April 23 at 1:00 pm Kelowna time):
+- Connor: 
+	- Create the 9 dataframes for the event types
+	- one hot encoding the dataframes
+	- merge dataframes into one dataframe on block ids. 
+	- review structure of research papers. 
+- Ben: 
+	- Help on onehot encoding
+	- Determine how to implement logistic regression model in python
+	- Have a demo version of the model. 
 
 ## Project to do:
 
