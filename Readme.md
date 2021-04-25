@@ -2,14 +2,15 @@
 
 ## Next Meeting tasks (April 23 at 1:00 pm Kelowna time):
 - Connor: 
-	- Create the 9 dataframes for the event types
 	- one hot encoding the dataframes
 	- merge dataframes into one dataframe on block ids. 
-	- review structure of research papers. 
+	- review structure of research papers.
+	- start writing paper 
 - Ben: 
 	- Help on onehot encoding
 	- Determine how to implement logistic regression model in python
 	- Have a demo version of the model. 
+	- Help with the research paper once model is completed. 
 
 ## Project to do:
 
