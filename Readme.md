@@ -12,5 +12,5 @@
 - On github: https://github.com/Astarter/DATA586_project/blob/main/df_wrangling.ipynb
 
 ## Final Video:
-- On github: ADD THIS
+- On github: milestone_2_video.mp4
 
