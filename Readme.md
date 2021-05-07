@@ -1,29 +1,12 @@
 # Data 586 Project
 
-## Next Meeting tasks (April 23 at 1:00 pm Kelowna time):
-- Connor: 
-	- one hot encoding the dataframes
-	- merge dataframes into one dataframe on block ids. 
-	- review structure of research papers.
-	- start writing paper 
-- Ben: 
-	- Help on onehot encoding
-	- Determine how to implement logistic regression model in python
-	- Have a demo version of the model. 
-	- Help with the research paper once model is completed. 
+## Final Report:
+- On github: 
+- On google doc: https://docs.google.com/document/d/1hRZA1mhe51pFhs2pyeZdg-q7jz142qJHPLluilkWrpc/edit?usp=sharing
 
-## Project to do:
+## Modeling code:
+- On github: https://github.com/Astarter/DATA586_project/blob/main/Multivariate%20Logit%20Regression_cleaned.ipynb
 
-1. Create github repo
-2. Data wrangling on the raw data
-	a. create a structure
-	b. find the unique events and then do onehot encoding on them to change textual data to numerical data. 
-		i. learn what onehot encoding is. 
-3. Decide on the type of model we want to use
-	a. algorithms or neural networks
-4. Build the model
-	a. train and test it
-5. write the paper 
-
-keep a list of references for the report.
+## Data wrangling code:
+- On github: https://github.com/Astarter/DATA586_project/blob/main/wrangling_connor.ipynb
 
